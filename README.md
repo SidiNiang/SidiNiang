@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SidiNiang
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning  Python , Html, CSS,  MySQL
+- 👀 I’m interested in Big Data, Dev Mobile, Web Platform
+- 🧾 I have solid skills in Laravel, Flutter & Python
+- 🌱 I’m currently learning .NET
 - 💞️ I’m looking to collaborate on Python
 
 - 📫 How to reach me : vous pouvez m'envoyer d'abord un message privé sa fera beaucoup plaisir ;) 
